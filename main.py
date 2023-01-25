@@ -21,7 +21,7 @@ import asyncio
 from keep_alive import keep_alive
 import requests
 from discord_webhook import DiscordWebhook
-TOKEN = "" # Paste your token here
+TOKEN = "" # MTA2NDM3MDk1NTEyMTYwMjU5MA.GsVNCH.7OzxZ7SM3SZAZooBkax2mhTI-8Hx1syK70rJDQ
 
 editing = {
 
